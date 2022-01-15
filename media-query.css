@@ -49,11 +49,11 @@
     color: rgb(50, 227, 240);
 }
 .influencer-pera{
-    font-size: 15px;
+    font-size: 15px; 
+}
 .main-camera{
   width: 270px;
   height: 270px;
-  
 }
 /* products */
 
@@ -62,5 +62,33 @@
     grid-template-columns: repeat(1, 1fr);
     grid-row-gap: 25px;
     justify-items: center
+}
+/* app */
+.influence-app{
+    padding: 0 0;
+    display: flex;
+     align-items: center; 
+    flex-direction: column;
+    padding-top: 70px;
+}
+.influence-app div img{
+     width: 537px;
+  height: 320px;
+  left: 833px;
+  top: 181px;
+  border-radius: 10px;
+}
+.app{
+     width: 400px;
+    height: 238px;
+    left: 0;
+    top: 0;
+}
+.app-heading{
+     font-size: 20px;
+    font-weight: 600;
+}
+.app-pera{
+    font-size: 10px;
 }
 }
