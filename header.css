@@ -1,3 +1,7 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #F3F1FF;
+}
 header{
     background-image: linear-gradient(to right, rgb(144, 247, 241), rgb(243, 146, 243));
     padding: 20px;
