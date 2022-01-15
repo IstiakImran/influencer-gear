@@ -1,3 +1,15 @@
+header{
+    background-image: linear-gradient(to right, rgb(144, 247, 241), rgb(243, 146, 243));
+    padding: 20px;
+}
+.influence-anchor{
+    font-weight: bold;
+    font-size: 30px;
+    transition: all 0.3s ease 0s;
+}
+.influence-anchor:hover{
+    color: #0088a9 ;
+}
 a, li a{
     font-size: 16px;
     color: black;

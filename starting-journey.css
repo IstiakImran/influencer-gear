@@ -1,0 +1,49 @@
+.journey-section{
+    padding: 30px 10%;
+    display: grid;
+    
+}
+.starting-journey{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  
+    padding-bottom: 70px;
+}
+.journey{
+    width: 582px;
+    height: 270px;
+    left: 120px;
+    top: 285px;
+}
+.starting-journey-text{
+    font-size: 50px;
+    font-weight: 900;
+}
+.influencer{
+    font-size: 50px;
+    font-weight: 900;
+    color: rgb(50, 227, 240);
+}
+.influencer-pera{
+    font-size: 20px;
+}
+.prebook{
+    background-image: linear-gradient(to right, orangered, tomato);
+   padding: 10px 25px;
+   border-radius: 15px;
+}
+.main-camera{
+  width: 475px;
+  height: 475px;
+  left: 833px;
+  top: 181px;
+}
+hr{
+    border: 1px solid #D1D1D1;
+}
+.svg-img{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}

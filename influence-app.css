@@ -1,0 +1,27 @@
+.influence-app{
+    padding: 60px 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 70px;
+}
+.influence-app div img{
+     width: 537px;
+  height: 320px;
+  left: 833px;
+  top: 181px;
+  border-radius: 10px;
+}
+.app{
+     width: 582px;
+    height: 270px;
+    left: 120px;
+    top: 285px;
+}
+.app-heading{
+     font-size: 40px;
+    font-weight: 700;
+}
+.app-pera{
+    font-size: 20px;
+}
