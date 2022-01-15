@@ -1,0 +1,66 @@
+@media (max-width: 480px){
+    /*---------------- header-------------- */
+    header{
+        height: 160px;
+        padding: 0 0;
+    }
+    nav{
+        align-items: center;
+        flex-direction: column;
+    }
+    ul{
+        display: flex;
+        flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 0 ;
+    }
+    li{
+        margin: 10px 5px;
+    }
+
+    /* -------------journey----------- */
+.journey-section{
+    padding: 0 0;
+}
+.starting-journey{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    flex-direction: column; 
+    padding-bottom: 70px;
+    height: 1000px;
+    width: 100%;
+}
+.journey{
+    display: flex;
+      align-items: center; 
+    flex-direction: column;
+    top: 0;
+    left: 0;
+    width: 250px;
+}
+.starting-journey-text{
+    font-size: 25px;
+    font-weight: 600;
+} 
+.influencer{
+    font-size: 25px;
+    font-weight: 500;
+    color: rgb(50, 227, 240);
+}
+.influencer-pera{
+    font-size: 15px;
+.main-camera{
+  width: 270px;
+  height: 270px;
+  
+}
+/* products */
+
+.item-list{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-row-gap: 25px;
+    justify-items: center
+}
+}
